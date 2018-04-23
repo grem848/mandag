@@ -1,7 +1,7 @@
 hej med dig
 
-<<<<<<< HEAD
+
 hej igen
-=======
+
 yo
->>>>>>> cf49992e5fd7a7a2cbed6696425fb2b07cf6dce3
+
